@@ -26,6 +26,10 @@ Neutron is a permissionless smart-contract platform built with Tendermint and th
 - [Faucet](http://faucet.quark.ntrn.info/)
 - [Testcases tasks for validators](https://discord.com/channels/986573321023942708/1030044086964588544/1041813907670569052)
 
+### Other
+
+- [Brandbook](https://github.com/neutron-org/brandbook)
+
 ### TODO
 
 - Tasks to do on current testnet phase?
