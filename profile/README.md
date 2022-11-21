@@ -10,15 +10,12 @@ Neutron is a permissionless smart-contract platform built with Tendermint and th
 - [Neutron presentation at Cosmoverse](https://youtu.be/Z2ZBKo9-iRs?t=20080)
 - [Documentation](https://docs.neutron.org/)
 
-### Social networks
+### Find us on...
 
-- [Neutron on Twitter](https://twitter.com/Neutron_org)
-- [Neutron on Discord](https://discord.gg/r82yeMu9Rf)
-- [Neutron on Telegram](https://t.me/neutron_community)
-
-### Careers
-
-- [Careers at P2P](https://apply.workable.com/p2p/) (choose `Neutron` as the `Department`)
+- [Linktree](https://linktr.ee/neutron.org)
+- [Twitter](https://twitter.com/Neutron_org)
+- [Discord](https://discord.gg/r82yeMu9Rf)
+- [Telegram](https://t.me/neutron_community)
 
 ### Quark testnet
 
@@ -29,4 +26,5 @@ Neutron is a permissionless smart-contract platform built with Tendermint and th
 
 ### Other
 
+- [Careers at P2P](https://apply.workable.com/p2p/) (choose `Neutron` as the `Department`)
 - [Brandbook](https://github.com/neutron-org/brandbook)
