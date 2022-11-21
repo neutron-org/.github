@@ -13,7 +13,7 @@ Neutron is a permissionless smart-contract platform built with Tendermint and th
 ### Social networks
 
 - [Neutron on Twitter](https://twitter.com/Neutron_org)
-- [Neutron on Discord](https://discord.gg/64qU7y7G)
+- [Neutron on Discord](https://discord.gg/r82yeMu9Rf)
 - [Neutron on Telegram](https://t.me/neutron_community)
 
 ### Careers
@@ -22,16 +22,11 @@ Neutron is a permissionless smart-contract platform built with Tendermint and th
 
 ### Quark testnet
 
+- [Learn more](https://github.com/neutron-org/testnets/tree/main/quark)
 - [Explorer](http://explorer.quark.ntrn.info/)
 - [Faucet](http://faucet.quark.ntrn.info/)
-- [Testcases tasks for validators](https://discord.com/channels/986573321023942708/1030044086964588544/1041813907670569052)
+- [Testcases, contributions and submission guidelines](https://github.com/neutron-org/testnets/tree/main/quark/testcases)
 
 ### Other
 
 - [Brandbook](https://github.com/neutron-org/brandbook)
-
-### TODO
-
-- Tasks to do on current testnet phase?
-- How to contribute?
-- Brandbook?
