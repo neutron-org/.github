@@ -20,6 +20,11 @@ Neutron is a permissionless smart-contract platform built with Tendermint and th
 
 - [Careers at P2P](https://apply.workable.com/p2p/) (choose `Neutron` as the `Department`)
 
+### Quark testnet
+
+- [Explorer](http://explorer.quark.ntrn.info/)
+- [Faucet](http://faucet.quark.ntrn.info/)
+
 ### TODO
 
 - Tasks to do on current testnet phase?
