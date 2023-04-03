@@ -29,5 +29,4 @@ Neutron is a permissionless smart-contract platform built with Tendermint and th
 
 ### Other
 
-- [Careers at P2P](https://apply.workable.com/p2p/) (choose `Neutron` as the `Department`)
 - [Brandbook](https://github.com/neutron-org/brandbook)
