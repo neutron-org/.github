@@ -26,7 +26,9 @@ Neutron is a permissionless smart-contract platform built with Tendermint and th
 
 ### Audits
  - [Oak security](https://github.com/oak-security/audit-reports/blob/master/Neutron/2022-12-07%20Audit%20Report%20-%20Neutron%20v1.0.pdf)
- - [Informal Systems](https://github.com/neutron-org/audits/blob/main/06.04.2023%20Informal%20Systems%20Audit%20Report.pdf)
+ -  Informal Systems
+     - [Neutron v1](https://github.com/neutron-org/audits/blob/main/06.04.2023%20Informal%20Systems%20Audit%20Report.pdf)
+     - [Neutrality upgrade audit](https://github.com/neutron-org/audits/blob/main/Neutron_Duality_v0_5_0_%2B_integration_of_Cosmos_SDK_0_47_v7_20231111.pdf)
 
 ### Other
 
