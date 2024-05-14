@@ -1,35 +1,30 @@
-![Neutron center copy](https://user-images.githubusercontent.com/103267218/203071188-1ba0021c-b3a8-4bf7-9d11-f2b28e67063e.png)
+![Frame 1523545](https://github.com/neutron-org/.github/assets/103267218/90abdad5-06ec-47da-a898-da96f14a4aee)
 
 ## What is Neutron?
-Neutron is a permissionless smart-contract platform built with Tendermint and the Cosmos SDK. It makes development of secure cross-chain applications easier and more profitable. Through Interchain Security, Neutron provides developers with the full Proof-of-Stake security of the Cosmos Hub, one of the ten most secure blockchains in existence, at a fraction of the cost of running an appchain. Smart-contracts on Neutron can be written in Rust and run on CosmWasm, which protects them from the main attack vectors used against Solidity/EVM dApps. Neutron provides convenient interfaces that smart-contracts can use to execute and track transactions on remote blockchains, trigger callbacks and retrieve data trustlessly over IBC.
+Neutron is the [Integrated Application](https://blog.neutron.org/neutron-the-integrated-application-network-2944b2e2cade) Network. 
+By granting contracts the power of an appchain, Neutron enables developers to build breakthrough applications and onboard users from anywhere.
+
+Neutron provides advanced cross-chain functionality that enables smart-contracts to [execute and track transactions on remote blockchains](https://docs.neutron.org/neutron/modules/interchain-txs/overview), trigger callbacks and [retrieve data trustlessly over IBC](https://docs.neutron.org/neutron/modules/interchain-queries/overview). Neutron's enshrined infrastructure provide developers access to enshrined oracle and [orderbook](https://docs.neutron.org/neutron/modules/dex/overview/) infrastructure, as well as access to consensus votes, [native automation](https://docs.neutron.org/neutron/modules/cron/overview), [custom fee markets and mev recapture](https://docs.neutron.org/neutron/modules/3rdparty/skip/block-sdk/overview). 
+
+Neutron is a permissionless smart-contract platform built with [Tendermint](https://docs.tendermint.com/), [CosmWasm](https://book.cosmwasm.com/) and the [Cosmos SDK](https://docs.cosmos.network/). CosmWasm smart-contracts are written in Rust, which prevents the main attack vectors used against Solidity/EVM dApps. Neutron is one of the first networks to be secured by restaking through Replicated Security, ensuring dApps are always safeguarded by billions of dollars of economic security. 
 
 ## Useful links
 
 ### About Neutron
 
-- [Neutron homepage](https://neutron.org/)
-- [Neutron presentation at Cosmoverse](https://youtu.be/Z2ZBKo9-iRs?t=20080)
+- [Website](https://neutron.org/)
 - [Documentation](https://docs.neutron.org/)
+- [Explorer](https://www.mintscan.io/neutron)
+- [Smart-contract explorer](https://neutron.celat.one/neutron-1)
+- [Audits](https://github.com/neutron-org/audits)
 
 ### Find us on...
 
-- [Linktree](https://linktr.ee/neutron.org)
 - [Twitter](https://twitter.com/Neutron_org)
 - [Discord](https://discord.gg/r82yeMu9Rf)
-- [Telegram](https://t.me/neutron_community)
+- [Telegram](https://t.me/+b9f8m8iybLdhYjE9)
 
-### Baryon testnet
+### Pion-1 testnet
 
-- [Learn more](https://github.com/cosmos/testnets/tree/master/replicated-security/baryon-1)
-- [Explorer](https://explorer.rs-testnet.polypore.xyz/baryon-1/)
-- [Faucet](https://t.me/+_09mT6AIFrE4NTgy)
-
-### Audits
- - [Oak security](https://github.com/oak-security/audit-reports/blob/master/Neutron/2022-12-07%20Audit%20Report%20-%20Neutron%20v1.0.pdf)
- -  Informal Systems
-     - [Neutron v1](https://github.com/neutron-org/audits/blob/main/06.04.2023%20Informal%20Systems%20Audit%20Report.pdf)
-     - [Neutrality upgrade audit](https://github.com/neutron-org/audits/blob/main/Neutron_Duality_v0_5_0_%2B_integration_of_Cosmos_SDK_0_47_v7_20231111.pdf)
-
-### Other
-
-- [Brandbook](https://github.com/neutron-org/brandbook)
+- [Explorer](https://www.mintscan.io/neutron-testnet/)
+- [Faucet](https://t.me/+FGa-DRDABrZjMmFi)
