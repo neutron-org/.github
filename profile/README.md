@@ -13,6 +13,7 @@ Neutron is a permissionless smart-contract platform built with [Tendermint](http
 ### About Neutron
 
 - [Website](https://neutron.org/)
+- [App](https://app.neutron.org/)
 - [Documentation](https://docs.neutron.org/)
 - [Explorer](https://www.mintscan.io/neutron)
 - [Smart-contract explorer](https://neutron.celat.one/neutron-1)
