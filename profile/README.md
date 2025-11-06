@@ -15,7 +15,6 @@ Neutron is a public PoS blockchain network that lets BTC holders earn sustainabl
 ### Find us on...
 
 - [Twitter](https://twitter.com/Neutron_org)
-- [Discord](https://discord.gg/r82yeMu9Rf)
 - [Telegram](https://t.me/+b9f8m8iybLdhYjE9)
 
 ### Pion-1 testnet
